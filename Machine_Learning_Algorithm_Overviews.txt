@@ -1,0 +1,148 @@
+This list is taken from dezyre.com (https://www.dezyre.com/article/top-10-machine-learning-algorithms/202). Coding recipes for these algorithms can be found here: https://www.dezyre.com/recipes/
+
+=========================================================================================
+1) Naive Bayes Classifier Algorithm
+What it is:
+	A classifier is a function that allocates a population's element value from one of the available categories.
+	It is a grouping function.
+
+When to use:
+	1) If you have a moderate or large training data set
+	2) If the instances have several attributes
+	3) Given the classification parameter, attributes which describe the instances should be conditionally independent.
+
+Common Applications:
+	Disease prediction
+	Document classification - Search engine page relevancy filters.
+	Spam email filtering
+	Sentiment Analysis - Classifies Facebook statuses as expressing positive or negative emotions.
+	Categorizing news articles into topic sections such as Technology or Sports.
+
+Advantages:
+	Performs well when the input variables are categorical.
+	Converges faster than other discriminative models like logistic regression (requires a smaller training set).
+
+Code Libraries to consider using:
+	Python: Sci-Kit Learn
+=========================================================================================
+2) K Means Clustering Algorithm
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+
+=========================================================================================
+2) K Means Clustering Algorithm
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+
+=========================================================================================
+3) Support Vector Machine Algorithm
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+4) Apriori Algorithm
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+5) Linear Regression
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+6) Logistic Regression
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+7) Artificial Neural Networks
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+8) Random Forests
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+9) Decision Trees
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
+10) Nearest Neighbors
+
+What it is:
+
+When to use:
+
+Common Applications:
+
+Advantages:
+
+Code Libraries to consider using:
+=========================================================================================
